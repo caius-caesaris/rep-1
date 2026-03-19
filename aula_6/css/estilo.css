@@ -1,0 +1,46 @@
+body {color: brown; font-family: "Bitcount Prop Double", system-ui;}
+header {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: midnightblue;
+    text-transform: capitalize;
+}
+main {
+    font-size: 20px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+p {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    /* font-style: italic; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+/* underline e outras propriedades podem se sobrepor, por exemplo, dotted. */
+
+
+/* herança */
+/* body {color: aqua;} */
+/* header {color: red;} */
+
+/*h1 {color: red;}*/
+/* h2, h3 {color: blue;} */
+/* footer h3 {color: purple;} */
+/* id */
+/* #aviso {color: green;} */
+/* class */
+/*.alerta {color: orange;}
+/* pseudo seletor */
+/*p::first-letter{font-size: 200%;}
+
+/* QUANTO MAIS ESPECÍFICA, MAIS A REGRA IMPORTA */
+/* SPECTER: FACE YOUR FEARS */
+
+/* CTRL BARRA */
+
+/* 
+
+<span> </span> --> divisão no meio do texto
+
+*/
